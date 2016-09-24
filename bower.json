@@ -1,0 +1,21 @@
+{
+  "name": "socket-chat-example",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "authors": [
+    "Kavalon <klovelovely@live.com> (http://varcat.me)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/klovelovely/socket-io-chat-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "appPath": "/",
+  "dependencies": {
+    "bower-package-upload-test": "kavalon#*"
+  }
+}

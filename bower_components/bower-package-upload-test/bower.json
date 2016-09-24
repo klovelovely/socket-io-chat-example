@@ -1,0 +1,22 @@
+{
+  "name": "bower-package-upload-test",
+  "authors": [
+    "Kavalon Wong <klovelovely@live.com>"
+  ],
+  "description": "just for a upload test",
+  "main": "dist/kavalon.js",
+  "keywords": [
+    "bower",
+    "package",
+    "kavalon"
+  ],
+  "license": "MIT",
+  "homepage": "http://angular.run/kavalon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

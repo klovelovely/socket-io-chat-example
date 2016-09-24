@@ -1,0 +1,32 @@
+{
+  "name": "bower-package-upload-test",
+  "authors": [
+    "Kavalon Wong <klovelovely@live.com>"
+  ],
+  "description": "just for a upload test",
+  "main": "dist/kavalon.js",
+  "keywords": [
+    "bower",
+    "package",
+    "kavalon"
+  ],
+  "license": "MIT",
+  "homepage": "http://angular.run/kavalon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "6aa4567658",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6aa4567658398ee07b0057007f1a2ca720709229"
+  },
+  "_source": "https://github.com/klovelovely/kavalon.git",
+  "_target": "*",
+  "_originalSource": "kavalon",
+  "_direct": true
+}
